@@ -1,2 +1,2 @@
 # course-3
-course-3 co
+course-3 cosera
